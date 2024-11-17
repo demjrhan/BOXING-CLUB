@@ -34,7 +34,7 @@ The Boxing Club schema includes the following tables:
 ## Installation
 
 1. Clone this repository:
-   `git clone https://github.com/demirhanylcn/Boxing_Club_SQL_Project.git`
+   `git clone https://github.com/demirhanylcn/BoxingClub.git`
 2. Import the SQL scripts into your preferred SQL database environment to create the schema.
 
 ## Usage
