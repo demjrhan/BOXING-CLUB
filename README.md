@@ -2,7 +2,7 @@
 Winter Semester 2024, SBD Project
 
 <p align="center">
-    <img src="https://github.com/demjrhan/BoxingClub/blob/main/schema/Boxing_Club%20Vertabelo.png" alt="BOXING CLUB VERTABELO PNG" width="500"/>
+    <img src="https://github.com/demjrhan/BoxingClub/blob/main/schema/Boxing_Club%20Vertabelo.png" alt="BOXING CLUB VERTABELO PNG" width="1000"/>
 </p>
 
 The Boxing Club SQL project is a relational database designed to manage and analyze the operations of a boxing club. It handles critical aspects such as boxer records, sponsors, trainers, matches, and weight classes, providing a robust platform for managing data and generating insights.
